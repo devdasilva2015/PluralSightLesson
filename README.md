@@ -3,5 +3,4 @@
 #First Commit
 ##test
 
-###Less updates to test lesson
-##Testing unsynked commits
+###More updates to test lesson
